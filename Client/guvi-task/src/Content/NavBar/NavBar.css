@@ -1,0 +1,36 @@
+#nav-container{
+    border: 1px solid steelblue;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: steelblue;
+    color: white;
+}
+#app-name{
+    font-size: x-large;
+    font-weight: 600;
+    margin-right: 50px;
+    margin-top: 5px;
+}
+#login-signup-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-weight: 600;
+    margin-left: 800px;
+}
+.buttons-title{
+    margin-right: 30px;
+    background-color: steelblue;
+    color: white;
+    border: 1px solid steelblue;
+    border-radius: 7px;
+    font-weight: 600;
+}
+.buttons-title:hover{
+    border: 1px solid white;
+    background-color: white;
+    color: steelblue;
+}

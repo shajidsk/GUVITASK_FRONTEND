@@ -1,0 +1,13 @@
+#home-page-container{
+    position: relative;
+    top: 300px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    font-weight: 600;
+}
